@@ -1,0 +1,2 @@
+# Reason of why the server is closed. This is the only message the client will receive.
+reject_reason (Reason of server close) string This server is closed.
